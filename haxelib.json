@@ -1,0 +1,17 @@
+{
+  "name": "hxjs-noty",
+  "license": "MIT",
+  "tags": [
+    "noty",
+    "npm",
+    "notifications",
+    "extern"
+  ],
+  "classPath": "src",
+  "contributors": [
+    "kevinresol"
+  ],
+  "releasenote": "initial release",
+  "version": "0.0.0",
+  "dependencies": {}
+}
