@@ -6,7 +6,7 @@ import haxe.extern.EitherType;
 #if noty_global
 @:native('Noty')
 #else
-@:require('noty')
+@:jsRequire('noty')
 #end
 extern class Noty {
 	@:overload(function(queueName:String):Void {})
